@@ -1,0 +1,15 @@
+Diccionario de correción ortográfica en español para Venezuela
+
+Esta extensión está compuesta por:
+   1. Corrector Ortográfico (Spell Checker)
+   2. Sinónimos - Tesauro (Thesaurus)
+   3. Separación Silábica (Hyphenation)
+
+Hecho por: Christian González <christiangda@gmail.com>
+
+Recuerda calificar este diccionario en: 
+http://extensions.services.openoffice.org/en/project/dict-es_VE
+
+Si quieres hacer una donación, por favor ve a:
+http://es-ve.sourceforge.net/
+

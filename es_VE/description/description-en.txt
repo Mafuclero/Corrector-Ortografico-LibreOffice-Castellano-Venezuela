@@ -1,0 +1,14 @@
+Spanish (Venezuela) spell check dictionary
+
+This extension consists of:
+   1. Spell Checker (Corrector Ortográfico)
+   2. Thesaurus (Tesauro)
+   3. Hyphenation (Separación Silábica)
+
+Made for: Christian González <christiangda@gmail.com>
+
+Remember to rate this dictionary in: 
+http://extensions.services.openoffice.org/en/project/dict-es_VE
+
+If you want to make a donation, please go to:
+http://es-ve.sourceforge.net/
